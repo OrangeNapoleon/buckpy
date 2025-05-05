@@ -20,4 +20,3 @@ def load(mag, ShellNum, LivesNum):
 if __name__ == "__main__":
     load(MAG, 8, 4)
     print(MAG)
-    print("TESTING")
